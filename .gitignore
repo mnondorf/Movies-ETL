@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# files to ignore
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+
 # Distribution / packaging
 .Python
 build/

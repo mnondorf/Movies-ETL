@@ -10,6 +10,7 @@ __pycache__/
 movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
+config.py
 
 # Distribution / packaging
 .Python
